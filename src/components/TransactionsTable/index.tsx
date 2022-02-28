@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import { useContext } from "react";
 import { useTransactions } from "../../hooks/useTransactions";
 
 export function TransactionsTable() {
